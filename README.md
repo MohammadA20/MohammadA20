@@ -20,8 +20,6 @@ Welcome to my GitHub! I'm a passionate software engineer and working in MERN Sta
 ### 👨‍💻 I have worked in
 
 - Pixel Company: Front-end Developer Intern
-
-⭐️ [Follow me](https://github.com/[YourGitHubUsername]) for more updates!
 <!--
 **MohammadA20/MohammadA20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
